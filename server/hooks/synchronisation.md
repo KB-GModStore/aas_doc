@@ -1,5 +1,5 @@
 ---
-description: You can see some hooks called when some synchronisations are performed
+description: You can see some the hooks list called when some synchronisations are performed
 ---
 # Synchronisation Functions
 

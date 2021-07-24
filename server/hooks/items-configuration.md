@@ -1,5 +1,5 @@
 ---
-description: You can see some hooks called when an itemTable is modified
+description: You can see some the hooks list called when an itemTable is modified
 ---
 # Items Configuration Hooks
 

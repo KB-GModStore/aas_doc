@@ -30,5 +30,6 @@
 * [Uitls](server/functions/utils.md)
 
 ## Server Hooks
+* [Bodygroups](server/hooks/bodygroups.md)
 * [Item Configuration](server/hooks/items-configuration.md)
-* [synchronisation](server/hooks/synchronisation.md)
+* [Synchronisation](server/hooks/synchronisation.md)
