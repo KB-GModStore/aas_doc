@@ -18,3 +18,4 @@
 * [AAS:DModel](client/ui/vgui/dmodel.md)
 * [AAS:ScrollPanel](client/ui/vgui/scrollpanel.md)
 * [AAS:Slider](client/ui/vgui/slider.md)
+* [AAS:TextEntry](client/ui/vgui/textentry.md)
