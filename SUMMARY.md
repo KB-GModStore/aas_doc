@@ -5,4 +5,5 @@
 * [Utils](client/functions/utils.md)
 
 ## Client UI Functions
-* [Main Functions](client/ui/functions/main.md)
+* [Items](client/ui/functions/items.md)
+* [Main](client/ui/functions/main.md)

@@ -27,4 +27,5 @@ AAS.BaseMenu(AAS.Language[AAS.Lang]["welcomeText"], true, 200, "house")
 ```
 
 Output: 
+
 ![](../../../assets/images/base_menu.png)
