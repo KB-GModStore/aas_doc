@@ -19,3 +19,6 @@
 * [AAS:ScrollPanel](client/ui/vgui/scrollpanel.md)
 * [AAS:Slider](client/ui/vgui/slider.md)
 * [AAS:TextEntry](client/ui/vgui/textentry.md)
+
+## Server Functions
+* [SQL Functions](server/functions/sql.md)
