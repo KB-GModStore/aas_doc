@@ -42,3 +42,15 @@ Return :
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- |
 | angle | newAng | The converted angle |
+
+### AAS.GetTableById(uniqueId)
+Get the item table from the uniqueId
+
+| Types | Arguments | Descriptions |
+| :--- | :--- | :--- |
+| number | **uniqueId** | The uniqueId where you want to get the item table |
+
+Return :
+| Types | Parameters | Descriptions |
+| :--- | :--- | :--- |
+| table | [itemTable](./data/itemTable.md) | The item table (or **{}** if not found) |
