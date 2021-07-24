@@ -16,3 +16,4 @@
 * [AAS:CheckBox](client/ui/vgui/checkbox.md)
 * [AAS:ComboBox](client/ui/vgui/combobox.md)
 * [AAS:DModel](client/ui/vgui/dmodel.md)
+* [AAS:ScrollPanel](client/ui/vgui/scrollpanel.md)
