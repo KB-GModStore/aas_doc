@@ -22,7 +22,7 @@ This function need to be declared in a render hook
 Example :
 
 ```lua
-hook.Add("HUDPaint", "AAS:Documentation:SimpleLinearGradient", function()
-    AAS.SimpleLinearGradient(500, 200, 100, 200, Color(255, 255, 255), Color(0, 0, 0))
-end)
-```​
+local function test()
+    print("salut")
+end
+```
