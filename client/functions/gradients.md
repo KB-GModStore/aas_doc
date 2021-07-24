@@ -6,6 +6,10 @@ description: You can see some functions used for materials
 ### AAS.SimpleLinearGradient(x, y, w, h, startColor, endColor)
 A simple linear gradient with just two offset (0: startColor, 1: endColor)
 
+{% hint style="info" %}
+This function need declared in a render hook
+{% endhint %}
+
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
 | number | **x** | The X position of the linear gradient |
