@@ -46,7 +46,7 @@ Offset table structure :
 | Types | Indexs | Descriptions |
 | :--- | :--- | :--- |
 | number | **offset** | In **range 0-1**, the position in the linear gradient |
-| color | **color** | The color to be at the position |
+| color | **color** | The color of the offset |
 
 Example :
 
