@@ -25,13 +25,23 @@ Return :
 
 Example:
 ```lua
-local text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+local text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-local breakText = AAS.BreakText(text, 150) -- Return a text with max 150 characters by lines
+local breakText = AAS.BreakText(text, 25) -- Return a text with max 25 characters by lines
+print(breakText)
 hook.Add("HUDPaint", "AAS:Documentation:BreakText", function()
     
-    draw.DrawText(text, "DermaDefault", ScrW()/2, 50, Color(255, 255, 255), TEXT_ALIGN_CENTER)
+    draw.DrawText(breakText, "DermaDefault", ScrW()/2, 50, Color(255, 255, 255), TEXT_ALIGN_CENTER)
 end)
+```
+Output:
+```bash
+Lorem ipsum dolor sit\n
+amet, consectetur\n
+adipiscing elit, sed do\n
+eiusmod tempor\n
+incididunt ut labore et\n
+dolore magna aliqua.
 ```
 
 ### AAS.ConvertVector(pos, offset, ang)
