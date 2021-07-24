@@ -13,10 +13,11 @@ Break with \n the text after x characters in the line
 
 Return :
 | Types | Parameters | Descriptions |
+| :--- | :--- | :--- |
 | string | newText | The broken text |
 
 ### AAS.ConvertVector(pos, offset, ang)
-Convert the vector with offsets
+Convert the vector with the offset
 
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
@@ -26,16 +27,18 @@ Convert the vector with offsets
 
 Return :
 | Types | Parameters | Descriptions |
+| :--- | :--- | :--- |
 | vector | newVector | The converted vector |
 
-### AAS.ConvertAngle(ang, vector)
-Convert the angle with vectors
+### AAS.ConvertAngle(ang, offset)
+Convert the angle with the offset
 
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
 | angle | **ang** | The angle to convert |
-| vector | **vector** | The vector |
+| vector | **offset** | The offset |
 
 Return :
 | Types | Parameters | Descriptions |
+| :--- | :--- | :--- |
 | angle | newAng | The converted angle |
