@@ -10,14 +10,14 @@ A simple linear gradient with just two offset (0: startColor, 1: endColor)
 This function need to be declared in a render hook
 {% endhint %}
 
-| Types | Arguments | Descriptions |
+<!-- | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
 | number | **x** | The X position of the linear gradient |
 | number | **y** | The Y position of the linear gradient |
 | number | **w** | The width of the linear gradient |
 | number | **h** | The height of the linear gradient |
 | color | **startColor** | The start color of the gradient (up) |
-| color | **endColor** | The end color of the gradient (down) |
+| color | **endColor** | The end color of the gradient (down) | -->
 
 Example :
 
