@@ -28,3 +28,7 @@
 * [SQL](server/functions/sql.md)
 * [Synchronisation](server/functions/synchronisation.md)
 * [Uitls](server/functions/utils.md)
+
+## Server Hooks
+* [Item Configuration](server/hooks/items-configuration.md)
+* [synchronisation](server/hooks/synchronisation.md)
