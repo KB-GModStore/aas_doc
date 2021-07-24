@@ -1,7 +1,7 @@
 ---
 description: A simple model card derived of a [DPanel](https://wiki.facepunch.com/gmod/DPanel)
 ---
-# Admin UI Functions
+# AAS:Cards VGUI
 
 ### PANEL:RemoveButton()
 Delete the buttons at the right of the card
