@@ -10,3 +10,11 @@ Called when an item is bought
 | :--- | :--- | :--- | :--- |
 | [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who bought the item |
 | [itemTable](../../data/itemTable.md) | **itemTable** | The boughted item |
+
+### AAS:SellItem(ply, itemTable)
+Called when an item is sold
+
+| Types | Arguments | Descriptions |
+| :--- | :--- | :--- | :--- |
+| [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who sold the item |
+| [itemTable](../../data/itemTable.md) | **itemTable** | The sold item |
