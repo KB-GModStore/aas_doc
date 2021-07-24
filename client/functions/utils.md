@@ -25,7 +25,7 @@ Return :
 
 Example:
 ```lua
-local text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+local text = "Lorem ipsum dolor sit amet, consectetur."
 
 local breakText = AAS.BreakText(text, 25) -- Return a text with max 25 characters by lines
 print(breakText)
@@ -37,11 +37,7 @@ end)
 Output:
 ```bash
 Lorem ipsum dolor sit\n
-amet, consectetur\n
-adipiscing elit, sed do\n
-eiusmod tempor\n
-incididunt ut labore et\n
-dolore magna aliqua.
+amet, consectetur.
 ```
 
 ### AAS.ConvertVector(pos, offset, ang)
