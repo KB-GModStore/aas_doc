@@ -41,4 +41,4 @@
 * [Utils](shared/functions/utils.md)
 
 ## Structs
-* [Item Table](structs/itemTable.md)
+* [Item Table](structs/item-table.md)
