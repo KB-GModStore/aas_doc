@@ -10,3 +10,6 @@
 * [Items](client/ui/functions/items.md)
 * [Main](client/ui/functions/main.md)
 * [Notifications](client/ui/functions/notifications.md)
+
+## Client VGUI List
+* [AAS:Cards](client/ui/vgui/cards.md)
