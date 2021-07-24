@@ -1,11 +1,11 @@
 ---
 description: You can see some functions used for materials
 ---
-#Materials Functions
+# Materials Functions
 
-#### AAS.SimpleLinearGradient(number x, number y, number w, number h, color startColor, color endColor)
+### AAS.SimpleLinearGradient(number x, number y, number w, number h, color startColor, color endColor)
 
-##### A simple linear gradient with just two offset (0: startColor, 1: endColor)
+#### A simple linear gradient with just two offset (0: startColor, 1: endColor)
 
 number **x**: The X position of the linear gradient
 number **y**: The Y position of the linear gradient
