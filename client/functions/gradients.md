@@ -7,7 +7,7 @@ description: You can see some functions used for gradients
 A simple linear gradient with just two offsets
 
 {% hint style="info" %}
-This function need to be declared in a render hook
+This function need to be declared in a [2D Render Hook](https://wiki.facepunch.com/gmod/2D_Rendering_Hooks)
 {% endhint %}
 
 | Types | Arguments | Descriptions | Optional |
@@ -31,7 +31,7 @@ end)
 A linear gradient with custom offsets
 
 {% hint style="info" %}
-This function need to be declared in a render hook
+This function need to be declared in a [2D Render Hook](https://wiki.facepunch.com/gmod/2D_Rendering_Hooks)
 {% endhint %}
 
 | Types | Arguments | Descriptions | Optional |
