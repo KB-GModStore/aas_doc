@@ -1,7 +1,7 @@
 ---
 description: You can see some functions used for gradients
 ---
-# Materials Functions
+# Gradients Functions
 
 ### AAS.SimpleLinearGradient(x, y, w, h, startColor, endColor)
 A simple linear gradient with just two offsets
