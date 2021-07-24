@@ -5,3 +5,5 @@ description: You can see some bodygroups UI functions
 
 ### AAS.BodyGroup()
 Open the bodygroups menu
+
+![](../../../assets/images/bodygroups.png)

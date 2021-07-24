@@ -12,3 +12,5 @@ Open the position settings menu
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
 | table | [itemTable](../../data/itemTable.md) | The itemTable where you want to change the positions |
+
+![](../../../assets/images/admin_settings.png)
