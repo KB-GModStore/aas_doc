@@ -7,7 +7,7 @@ description: You can see some functions used for materials
 A simple linear gradient with just two offset (0: startColor, 1: endColor)
 
 {% hint style="info" %}
-This function need declared in a render hook
+This function need to be declared in a render hook
 {% endhint %}
 
 | Types | Arguments | Descriptions |
