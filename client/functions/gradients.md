@@ -4,8 +4,7 @@ description: You can see some functions used for materials
 # Materials Functions
 
 ### AAS.SimpleLinearGradient(x, y, w, h, startColor, endColor)
-
-#### A simple linear gradient with just two offset (0: startColor, 1: endColor)
+A simple linear gradient with just two offset (0: startColor, 1: endColor)
 
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
