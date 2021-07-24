@@ -9,3 +9,4 @@
 * [Bodygroups](client/ui/functions/bodygroups.md)
 * [Items](client/ui/functions/items.md)
 * [Main](client/ui/functions/main.md)
+* [Notifications](client/ui/functions/notifications.md)
