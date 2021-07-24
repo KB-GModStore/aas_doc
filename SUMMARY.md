@@ -22,4 +22,5 @@
 
 ## Server Functions
 * [Item Configuration](server/functions/items-configuration.md)
+* [Synchronisation](server/functions/synchronisation.md)
 * [SQL](server/functions/sql.md)
