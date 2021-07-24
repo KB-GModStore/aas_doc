@@ -10,5 +10,3 @@ Send a notification to the [LocalPlayer](https://wiki.facepunch.com/gmod/Global.
 | :--- | :--- | :--- |
 | number | time | Notification display time |
 | string | msg | The notification message content |
-
-![](../../../assets/images/admin_positions.png)
