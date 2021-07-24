@@ -4,7 +4,7 @@ description: You can see some functions used for materials
 # Materials Functions
 
 ### AAS.SimpleLinearGradient(x, y, w, h, startColor, endColor)
-A simple linear gradient with just two offsets (0: startColor, 1: endColor)
+A simple linear gradient with just two offsets
 
 {% hint style="info" %}
 This function need to be declared in a render hook
