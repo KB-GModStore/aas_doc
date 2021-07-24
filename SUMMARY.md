@@ -14,3 +14,4 @@
 ## Client VGUI List
 * [AAS:Cards](client/ui/vgui/cards.md)
 * [AAS:CheckBox](client/ui/vgui/checkbox.md)
+* [AAS:ComboBox](client/ui/vgui/combobox.md)
