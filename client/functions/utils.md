@@ -1,5 +1,5 @@
 ---
-description: You can see some functions used for some things
+description: You can see some utils functions
 ---
 # Utils Functions
 
