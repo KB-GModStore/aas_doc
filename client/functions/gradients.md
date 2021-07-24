@@ -42,11 +42,11 @@ This function need to be declared in a render hook
 | number | **h** | The height of the linear gradient |
 | table | **offsets** | List of offsets to be in the linear gradient |
 
-offset table structure (by id)
+Offset table structure :
 | Types | Indexs | Descriptions |
 | :--- | :--- | :--- |
-| number | **offset** | In **0-1 range**, the position in the linear gradient |
-| color | **color** | The color to be at the specific position |
+| number | **offset** | In **range 0-1**, the position in the linear gradient |
+| color | **color** | The color to be at the position |
 
 Example :
 
