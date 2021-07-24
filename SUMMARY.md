@@ -24,6 +24,7 @@
 * [Bodygroups](server/functions/bodygroups.md)
 * [Item Configuration](server/functions/items-configuration.md)
 * [Notifications](server/functions/notifications.md)
+* [Purchasing](server/functions/purchasing-system.md)
 * [SQL](server/functions/sql.md)
 * [Synchronisation](server/functions/synchronisation.md)
 * [Uitls](server/functions/utils.md)
