@@ -22,5 +22,6 @@
 
 ## Server Functions
 * [Item Configuration](server/functions/items-configuration.md)
-* [Synchronisation](server/functions/synchronisation.md)
+* [Notifications](server/functions/notifications.md)
 * [SQL](server/functions/sql.md)
+* [Synchronisation](server/functions/synchronisation.md)
