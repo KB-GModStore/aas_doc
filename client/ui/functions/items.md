@@ -5,3 +5,7 @@ description: You can see some items UI functions
 
 ### AAS.ItemMenu()
 Open the Item menu
+
+Output: 
+
+![](../../../assets/images/items.png)

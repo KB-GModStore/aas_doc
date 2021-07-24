@@ -13,4 +13,6 @@ Open the position settings menu
 | :--- | :--- | :--- |
 | table | [itemTable](../../data/itemTable.md) | The itemTable where you want to change the positions |
 
+Output:
+
 ![](../../../assets/images/admin_settings.png)

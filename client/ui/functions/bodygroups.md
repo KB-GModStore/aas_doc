@@ -6,4 +6,6 @@ description: You can see some bodygroups UI functions
 ### AAS.BodyGroup()
 Open the bodygroups menu
 
+Output :
+
 ![](../../../assets/images/bodygroups.png)

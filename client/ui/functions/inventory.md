@@ -5,5 +5,3 @@ description: You can see some inventory UI functions
 
 ### AAS.InventoryMenu()
 Open the inventory menu
-
-![](../../../assets/images/inventory.png)
