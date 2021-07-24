@@ -21,6 +21,7 @@
 * [AAS:TextEntry](client/ui/vgui/textentry.md)
 
 ## Server Functions
+* [Accessories](server/functions/accessories.md)
 * [Bodygroups](server/functions/bodygroups.md)
 * [Item Configuration](server/functions/items-configuration.md)
 * [Notifications](server/functions/notifications.md)
@@ -30,6 +31,7 @@
 * [Uitls](server/functions/utils.md)
 
 ## Server Hooks
+* [Accessories](server/hooks/accessories.md)
 * [Bodygroups](server/hooks/bodygroups.md)
 * [Item Configuration](server/hooks/items-configuration.md)
 * [Purchasing](server/hooks/purchasing.md)
