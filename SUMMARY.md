@@ -21,6 +21,7 @@
 * [AAS:TextEntry](client/ui/vgui/textentry.md)
 
 ## Server Functions
+* [Bodygroups](server/functions/bodygroups.md)
 * [Item Configuration](server/functions/items-configuration.md)
 * [Notifications](server/functions/notifications.md)
 * [SQL](server/functions/sql.md)
