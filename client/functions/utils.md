@@ -3,6 +3,9 @@ description: You can see some functions used for some things
 ---
 # Utils Functions
 
+### AAS.LoadFonts()
+Load addon fonts
+
 ### AAS.BreakText(text, max)
 Break with \n the text after x characters in the line
 
