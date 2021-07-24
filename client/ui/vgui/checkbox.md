@@ -1,5 +1,5 @@
 ---
-description: A CheckBox derived of a [DButton](https://wiki.facepunch.com/gmod/DButton)
+description: A CheckBox derived of a DButton
 ---
 # AAS:CheckBox
 

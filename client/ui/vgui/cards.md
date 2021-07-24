@@ -1,5 +1,5 @@
 ---
-description: A simple model card derived of a [DPanel](https://wiki.facepunch.com/gmod/DPanel)
+description: A simple model card derived of a DPanel
 ---
 # AAS:Cards VGUI
 
