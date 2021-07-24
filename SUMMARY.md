@@ -36,3 +36,6 @@
 * [Item Configuration](server/hooks/items-configuration.md)
 * [Purchasing](server/hooks/purchasing.md)
 * [Synchronisation](server/hooks/synchronisation.md)
+
+## Shared functions
+* [Utils](shared/functions/utils.md)
