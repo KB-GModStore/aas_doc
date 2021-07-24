@@ -3,7 +3,7 @@ description: You can see some functions used for materials
 ---
 # Materials Functions
 
-<!-- ### AAS.SimpleLinearGradient(x, y, w, h, startColor, endColor)
+### AAS.SimpleLinearGradient(x, y, w, h, startColor, endColor)
 A simple linear gradient with just two offset (0: startColor, 1: endColor)
 
 {% hint style="info" %}
@@ -22,7 +22,7 @@ This function need to be declared in a render hook
 Example :
 
 ```lua
-local function test()
-    print("salut")
-end
+hook.Add("HUDPaint", "AAS:Documentation:SimpleLinearGradient", function()
+    AAS.SimpleLinearGradient(300, 200, 50, 100, Color(255, 255, 255), Color(0, 0, 0))
+end)
 ```
