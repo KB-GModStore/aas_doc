@@ -22,3 +22,15 @@ Make sur the **itemTable.uniqueId** is valid or no update will be made
 | :--- | :--- | :--- | :--- |
 | [itemTable](../../data/itemTable.md) | **itemTable** | The itemTable to update | ❌ |
 | [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who update the item | ✔️ |
+
+### AAS.DeleteItem(itemTable, ply)
+Delete an accessory item
+
+{% hint style="warning" %}
+Make sur the **itemTable.uniqueId** is valid or no delete will be made
+{% endhint %}
+
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| [itemTable](../../data/itemTable.md) | **itemTable** | The itemTable to delete | ❌ |
+| [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who delete the item | ✔️ |
