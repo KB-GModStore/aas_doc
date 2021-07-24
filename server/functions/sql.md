@@ -8,4 +8,4 @@ Send a SQL Query
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| string | **query** | The sql query to send | ❌ |
+| [string](https://www.lua.org/pil/2.4.html) | **query** | The sql query to send | ❌ |

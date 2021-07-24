@@ -8,4 +8,4 @@ Set if you want to draw the background
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| boolean | **bool** | If you want to draw the background | ❌ |
+| [boolean](https://www.lua.org/pil/2.2.html) | **bool** | If you want to draw the background | ❌ |

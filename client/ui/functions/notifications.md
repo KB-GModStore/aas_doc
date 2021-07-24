@@ -8,5 +8,5 @@ Send a notification to the [LocalPlayer](https://wiki.facepunch.com/gmod/Global.
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| number | time | Notification display time |
-| string | msg | The notification message content |
+| [number](https://www.lua.org/pil/2.3.html) | time | Notification display time | ❌ |
+| [string](https://www.lua.org/pil/2.4.html) | msg | The notification message content | ❌ |

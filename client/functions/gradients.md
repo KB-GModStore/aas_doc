@@ -12,12 +12,12 @@ This function need to be declared in a render hook
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| number | **x** | The X position of the linear gradient | ❌ |
-| number | **y** | The Y position of the linear gradient | ❌ |
-| number | **w** | The width of the linear gradient | ❌ |
-| number | **h** | The height of the linear gradient | ❌ |
-| color | **startColor** | The start color of the gradient (up) | ❌ |
-| color | **endColor** | The end color of the gradient (down) | ❌ |
+| [number](https://www.lua.org/pil/2.3.html) | **x** | The X position of the linear gradient | ❌ |
+| [number](https://www.lua.org/pil/2.3.html) | **y** | The Y position of the linear gradient | ❌ |
+| [number](https://www.lua.org/pil/2.3.html) | **w** | The width of the linear gradient | ❌ |
+| [number](https://www.lua.org/pil/2.3.html) | **h** | The height of the linear gradient | ❌ |
+| [Color](https://wiki.facepunch.com/gmod/Color) | **startColor** | The start color of the gradient (up) | ❌ |
+| [Color](https://wiki.facepunch.com/gmod/Color) | **endColor** | The end color of the gradient (down) | ❌ |
 
 Example :
 
@@ -36,17 +36,17 @@ This function need to be declared in a render hook
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| number | **x** | The X position of the linear gradient | ❌ |
-| number | **y** | The Y position of the linear gradient | ❌ |
-| number | **w** | The width of the linear gradient | ❌ |
-| number | **h** | The height of the linear gradient | ❌ |
-| table | **offsets** | List of offsets to be in the linear gradient | ❌ |
+| [number](https://www.lua.org/pil/2.3.html) | **x** | The X position of the linear gradient | ❌ |
+| [number](https://www.lua.org/pil/2.3.html) | **y** | The Y position of the linear gradient | ❌ |
+| [number](https://www.lua.org/pil/2.3.html) | **w** | The width of the linear gradient | ❌ |
+| [number](https://www.lua.org/pil/2.3.html) | **h** | The height of the linear gradient | ❌ |
+| [table](https://www.lua.org/pil/2.5.html) | **offsets** | List of offsets to be in the linear gradient | ❌ |
 
 Offset table structure :
 | Types | Indexs | Descriptions |
 | :--- | :--- | :--- | :--- |
-| number | **offset** | In **range 0-1**, the position in the linear gradient |
-| color | **color** | The color of the offset |
+| [number](https://www.lua.org/pil/2.3.html) | **offset** | In **range 0-1**, the position in the linear gradient |
+| [Color](https://wiki.facepunch.com/gmod/Color) | **color** | The color of the offset |
 
 Example :
 

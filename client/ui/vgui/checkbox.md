@@ -7,7 +7,7 @@ description: A CheckBox derived of a DButton
 Set the checkbox value
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| boolean | **bool** | If the button is toggle | ❌ |
+| [boolean](https://www.lua.org/pil/2.2.html) | **bool** | If the button is toggle | ❌ |
 
 
 ### PANEL:GetValue()
@@ -16,4 +16,4 @@ Get the checkbox value
 Return :
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- | :--- |
-| boolean | **value** | If the button is toggle |
+| [boolean](https://www.lua.org/pil/2.2.html) | **value** | If the button is toggle |

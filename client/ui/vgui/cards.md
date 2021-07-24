@@ -11,7 +11,7 @@ Setup the card model, and add some informations on it
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| panel | **itemScroll** | The card linked scroll | ❌ |
-| panel | **accessoriesFrame** | The card linked frame | ❌ |
-| panel | **itemContainer** | The card linked container (like a [DIconLayout](https://wiki.facepunch.com/gmod/DIconLayout)) | ❌ |
-| table | **[itemTable](../../data/itemTable.md)** | The card linked item | ❌ |
+| [Panel](https://wiki.facepunch.com/gmod/Panel) | **itemScroll** | The card linked scroll | ❌ |
+| [Panel](https://wiki.facepunch.com/gmod/Panel) | **accessoriesFrame** | The card linked frame | ❌ |
+| [Panel](https://wiki.facepunch.com/gmod/Panel) | **itemContainer** | The card linked container (like a [DIconLayout](https://wiki.facepunch.com/gmod/DIconLayout)) | ❌ |
+| [table](https://www.lua.org/pil/2.5.html) | **[itemTable](../../data/itemTable.md)** | The card linked item | ❌ |
