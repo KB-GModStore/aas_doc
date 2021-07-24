@@ -14,4 +14,4 @@ Setup the card model, and add some informations on it
 | [Panel](https://wiki.facepunch.com/gmod/Panel) | **itemScroll** | The card linked scroll | ❌ |
 | [Panel](https://wiki.facepunch.com/gmod/Panel) | **accessoriesFrame** | The card linked frame | ❌ |
 | [Panel](https://wiki.facepunch.com/gmod/Panel) | **itemContainer** | The card linked container (like a [DIconLayout](https://wiki.facepunch.com/gmod/DIconLayout)) | ❌ |
-| [table](https://www.lua.org/pil/2.5.html) | **[itemTable](../../data/itemTable.md)** | The card linked item | ❌ |
+| [itemTable](/structs/item-table.md) | **tbl** | The card linked item | ❌ |

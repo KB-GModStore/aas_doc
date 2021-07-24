@@ -15,7 +15,7 @@ Open the position settings menu
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| [table](https://www.lua.org/pil/2.5.html) | [itemTable](../../data/itemTable.md) | The itemTable where you want to change the positions | ❌ |
+| [itemTable](/structs/item-table.md) | **itemTable** | The itemTable where you want to change the positions | ❌ |
 
 Output:
 

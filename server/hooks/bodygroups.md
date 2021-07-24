@@ -9,7 +9,7 @@ Called when a [Player](https://wiki.facepunch.com/gmod/Player) bodygroups was lo
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
 | [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who bodygroups was loaded |
-| [table](https://www.lua.org/pil/2.5.html) | **bodygroups** | The loaded bodygroups |
+| [bodyGroupTable](/structs/bodygroup-table.md) | **bodygroups** | The loaded bodygroups |
 
 ### AAS:BodyGroupSaved(ply, bodygroups)
 Called when a [Player](https://wiki.facepunch.com/gmod/Player) bodygroups was saved
@@ -17,4 +17,4 @@ Called when a [Player](https://wiki.facepunch.com/gmod/Player) bodygroups was sa
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
 | [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who bodygroups was saved |
-| [table](https://www.lua.org/pil/2.5.html) | **bodygroups** | The saved bodygroups |
+| [bodyGroupTable](/structs/bodygroup-table.md) | **bodygroups** | The saved bodygroups |

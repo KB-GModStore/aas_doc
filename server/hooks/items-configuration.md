@@ -8,18 +8,18 @@ Called when an item is created
 
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
-| [itemTable](../../data/itemTable.md) | **itemTable** | The added item |
+|[itemTable](/structs/item-table.md) | **itemTable** | The added item |
 
 ### AAS:OnItemModified(itemTable)
 Called when an item is modified
 
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
-| [itemTable](../../data/itemTable.md) | **itemTable** | The modified item |
+|[itemTable](/structs/item-table.md) | **itemTable** | The modified item |
 
 ### AAS:OnItemDeleted(itemTable)
 Called when an item is deleted
 
 | Types | Arguments | Descriptions |
 | :--- | :--- | :--- |
-| [itemTable](../../data/itemTable.md) | **itemTable** | The deleted item |
+|[itemTable](/structs/item-table.md) | **itemTable** | The deleted item |

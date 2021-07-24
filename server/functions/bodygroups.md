@@ -8,7 +8,7 @@ Save user bodygroups
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| [table](https://www.lua.org/pil/2.5.html) | **bodyGroupTable** | Bodygroups to save on the player  | ❌ |
+| [bodyGroupTable](/structs/bodygroup-table.md) | **bodyGroupTable** | Bodygroups to save on the player  | ❌ |
 
 ### PLAYER:AASLoadBodyGroup()
 Load user bodygroups

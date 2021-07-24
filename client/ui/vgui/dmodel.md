@@ -22,7 +22,7 @@ Create the accessory and draw it on the model
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| [table](https://www.lua.org/pil/2.5.html) | [itemTable](../../../data/itemTable.md) | The item table what you want to draw | ❌ |
+| [itemTable](/structs/item-table.md) | **itemTable** | The item table what you want to draw | ❌ |
 
 ### PANEL:RemoveDrawAccessories(uniqueId)
 Remove an accessory from the model

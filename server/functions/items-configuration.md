@@ -8,7 +8,7 @@ Add an accessory
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| [itemTable](../../data/itemTable.md) | **itemTable** | The itemTable to add | ❌ |
+| [itemTable](/structs/item-table.md) | **itemTable** | The itemTable to add | ❌ |
 | [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who adds the item | ✔️ |
 
 ### AAS.UpdateItem(itemTable, ply)
@@ -20,7 +20,7 @@ Make sur the **itemTable.uniqueId** is valid or no update will be made
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| [itemTable](../../data/itemTable.md) | **itemTable** | The itemTable to update | ❌ |
+| [itemTable](/structs/item-table.md) | **itemTable** | The itemTable to update | ❌ |
 | [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who update the item | ✔️ |
 
 ### AAS.DeleteItem(itemTable, ply)
@@ -32,5 +32,5 @@ Make sur the **itemTable.uniqueId** is valid or no delete will be made
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| [itemTable](../../data/itemTable.md) | **itemTable** | The itemTable to delete | ❌ |
+| [itemTable](/structs/item-table.md) | **itemTable** | The itemTable to delete | ❌ |
 | [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who delete the item | ✔️ |
