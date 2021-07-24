@@ -5,6 +5,7 @@ description: A CheckBox derived of a DButton
 
 ### PANEL:SetValue(bool)
 Set the checkbox value
+
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
 | [boolean](https://www.lua.org/pil/2.2.html) | **bool** | If the button is toggle | ❌ |

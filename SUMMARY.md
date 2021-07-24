@@ -21,4 +21,5 @@
 * [AAS:TextEntry](client/ui/vgui/textentry.md)
 
 ## Server Functions
-* [SQL Functions](server/functions/sql.md)
+* [Item Configuration](server/functions/items-configuration.md)
+* [SQL](server/functions/sql.md)
