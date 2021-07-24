@@ -6,6 +6,6 @@ description: A Slider derived of a DPanel
 ### PANEL:ChangeBackground(bool)
 Set if you want to draw the background
 
-| Types | Arguments | Descriptions |
-| :--- | :--- | :--- |
-| boolean | **bool** | If you want to draw the background |
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| boolean | **bool** | If you want to draw the background | ❌ |

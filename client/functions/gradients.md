@@ -10,14 +10,14 @@ A simple linear gradient with just two offsets
 This function need to be declared in a render hook
 {% endhint %}
 
-| Types | Arguments | Descriptions |
-| :--- | :--- | :--- |
-| number | **x** | The X position of the linear gradient |
-| number | **y** | The Y position of the linear gradient |
-| number | **w** | The width of the linear gradient |
-| number | **h** | The height of the linear gradient |
-| color | **startColor** | The start color of the gradient (up) |
-| color | **endColor** | The end color of the gradient (down) |
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| number | **x** | The X position of the linear gradient | ❌ |
+| number | **y** | The Y position of the linear gradient | ❌ |
+| number | **w** | The width of the linear gradient | ❌ |
+| number | **h** | The height of the linear gradient | ❌ |
+| color | **startColor** | The start color of the gradient (up) | ❌ |
+| color | **endColor** | The end color of the gradient (down) | ❌ |
 
 Example :
 
@@ -34,17 +34,17 @@ A linear gradient with custom offsets
 This function need to be declared in a render hook
 {% endhint %}
 
-| Types | Arguments | Descriptions |
-| :--- | :--- | :--- |
-| number | **x** | The X position of the linear gradient |
-| number | **y** | The Y position of the linear gradient |
-| number | **w** | The width of the linear gradient |
-| number | **h** | The height of the linear gradient |
-| table | **offsets** | List of offsets to be in the linear gradient |
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| number | **x** | The X position of the linear gradient | ❌ |
+| number | **y** | The Y position of the linear gradient | ❌ |
+| number | **w** | The width of the linear gradient | ❌ |
+| number | **h** | The height of the linear gradient | ❌ |
+| table | **offsets** | List of offsets to be in the linear gradient | ❌ |
 
 Offset table structure :
 | Types | Indexs | Descriptions |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | number | **offset** | In **range 0-1**, the position in the linear gradient |
 | color | **color** | The color of the offset |
 
