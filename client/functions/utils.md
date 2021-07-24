@@ -77,4 +77,4 @@ Get the item table from the uniqueId
 Return :
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- | :--- |
-| [table](https://www.lua.org/pil/2.5.html) | [itemTable](../../data/itemTable.md) | The item table (or **{}** if not found) |
+| [table](https://www.lua.org/pil/2.5.html) | [itemTable](/structs/item-table.md) | The item table (or **{}** if not found) |
