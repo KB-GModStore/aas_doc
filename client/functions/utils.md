@@ -14,7 +14,7 @@ Break with \n the text after x characters in the line
 Return :
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- |
-| string | newText | The broken text |
+| string | **newText** | The broken text |
 
 ### AAS.ConvertVector(pos, offset, ang)
 Convert the vector with the offset
@@ -28,7 +28,7 @@ Convert the vector with the offset
 Return :
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- |
-| vector | newVector | The converted vector |
+| vector | **newVector** | The converted vector |
 
 ### AAS.ConvertAngle(ang, offset)
 Convert the angle with the offset
@@ -41,7 +41,7 @@ Convert the angle with the offset
 Return :
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- |
-| angle | newAng | The converted angle |
+| angle | **newAng** | The converted angle |
 
 ### AAS.GetTableById(uniqueId)
 Get the item table from the uniqueId
@@ -53,4 +53,4 @@ Get the item table from the uniqueId
 Return :
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- |
-| table | [itemTable](./data/itemTable.md) | The item table (or **{}** if not found) |
+| table | [itemTable](../../data/itemTable.md) | The item table (or **{}** if not found) |
