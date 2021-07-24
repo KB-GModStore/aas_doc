@@ -17,3 +17,4 @@
 * [AAS:ComboBox](client/ui/vgui/combobox.md)
 * [AAS:DModel](client/ui/vgui/dmodel.md)
 * [AAS:ScrollPanel](client/ui/vgui/scrollpanel.md)
+* [AAS:Slider](client/ui/vgui/slider.md)
