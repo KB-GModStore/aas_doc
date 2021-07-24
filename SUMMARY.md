@@ -26,3 +26,4 @@
 * [Notifications](server/functions/notifications.md)
 * [SQL](server/functions/sql.md)
 * [Synchronisation](server/functions/synchronisation.md)
+* [Uitls](server/functions/utils.md)

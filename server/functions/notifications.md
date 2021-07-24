@@ -1,7 +1,7 @@
 ---
 description: You can see some notifications functions
 ---
-# Notifications
+# Notifications Functions
 
 ### PLAYER:AASNotify(time, msg)
 Send a notification to the [Player](https://wiki.facepunch.com/gmod/Player)

@@ -1,7 +1,7 @@
 ---
 description: You can see some functions used for the items configuration
 ---
-# Items Configuration
+# Items Configuration Functions
 
 ### AAS.AddItem(itemTable, ply)
 Add an accessory item

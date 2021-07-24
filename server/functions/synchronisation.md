@@ -1,7 +1,7 @@
 ---
 description: You can see some functions used for synchronises items
 ---
-# Synchronisation Configuration
+# Synchronisation Functions
 
 ### AAS.SendItemInformations(ply)
 Synchronise all items list with the [Player](https://wiki.facepunch.com/gmod/Player)
