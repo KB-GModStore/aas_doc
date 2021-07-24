@@ -28,9 +28,9 @@ Example:
 local text = "Lorem ipsum dolor sit amet, consectetur."
 
 local breakText = AAS.BreakText(text, 25) -- Return a text with max 25 characters by lines
-print(breakText)
 hook.Add("HUDPaint", "AAS:Documentation:BreakText", function()
     
+    print(breakText)
     draw.DrawText(breakText, "DermaDefault", ScrW()/2, 50, Color(255, 255, 255), TEXT_ALIGN_CENTER)
 end)
 ```
