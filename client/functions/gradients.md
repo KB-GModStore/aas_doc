@@ -1,5 +1,5 @@
 ---
-description: You can see some functions used for materials
+description: You can see some functions used for gradients
 ---
 # Materials Functions
 
