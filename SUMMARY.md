@@ -44,3 +44,4 @@
 * [Item Categories](structs/item-categories.md)
 * [Item Table](structs/item-table.md)
 * [Item Jobs](structs/item-jobs.md)
+* [Item Options](structs/item-options.md)

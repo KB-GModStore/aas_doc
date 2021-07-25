@@ -14,4 +14,4 @@ description: You can see the item table structure
 | [Vector](https://wiki.facepunch.com/gmod/Vector) | **scale** | The item scale |
 | [Angle](https://wiki.facepunch.com/gmod/Angle) | **ang** | The item angle |
 | [itemJobs](/structs/item-jobs.md) | **job** | Jobs who have acces to the item (or all if the table is empty) |
-| [itemOptions](/structs/item-categories.md) | **uniqueId** | The item uniqueId |
+| [itemOptions](/structs/item-options.md) | **uniqueId** | The item uniqueId |
