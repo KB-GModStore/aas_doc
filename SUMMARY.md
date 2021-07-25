@@ -41,5 +41,6 @@
 * [Utils](shared/functions/utils.md)
 
 ## Structs
-* [Item Table](structs/item-table.md)
 * [Item Categories](structs/item-categories.md)
+* [Item Table](structs/item-table.md)
+* [Item Jobs](structs/item-jobs.md)
