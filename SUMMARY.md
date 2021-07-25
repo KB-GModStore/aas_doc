@@ -46,6 +46,7 @@
 
 ## Shared functions
 
+* [Inventory](shared-functions/inventory.md)
 * [Utils](shared-functions/utils.md)
 
 ## Structs
