@@ -10,6 +10,13 @@ Equip the accesorry
 | :--- | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to equip | ❌ |
 
+### PLAYER:AASUnEquipAccessoryById(uniqueId)
+Unequip an accessory by item uniqueId
+
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to unequip | ❌ |
+
 ### PLAYER:AASUnEquipAccessories(category)
 Unequip the accesorry
 
