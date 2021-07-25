@@ -8,7 +8,7 @@ Synchronise all items list with the [Player](https://wiki.facepunch.com/gmod/Pla
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player to synchronise | ❌ |
+| [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player to synchronize or nil if you want to synchronize to all players | ✔️ |
 
 ### PLAYER:AASSendInventory(table)
 Synchronise all inventory with the [Player](https://wiki.facepunch.com/gmod/Player)
