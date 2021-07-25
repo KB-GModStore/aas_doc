@@ -17,5 +17,8 @@ Unequip the accesorry
 | :--- | :--- | :--- | :--- |
 | [string](https://www.lua.org/pil/2.4.html) | **category** | The category of the item you wish to unequip | ❌ |
 
+### PLAYER:AASUnEquipAllAccessory()
+Unequip all player accessories
+
 ### PLAYER:AASSendAllAccessory()
 Send all accessories of all players to a specific player
