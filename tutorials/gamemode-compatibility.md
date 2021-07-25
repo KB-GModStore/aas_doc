@@ -28,9 +28,6 @@ function PLAYER:AASAddMoney(price)
         return self:setMyGamemodeMoney(price) -- This is the function for get the money
     end
 end
-
-
-
 ```
 
 

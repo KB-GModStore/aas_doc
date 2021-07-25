@@ -2,6 +2,12 @@
 
 * [Introduction](README.md)
 
+## Tutorials
+
+* [Create a new category](tutorials/create-a-new-category.md)
+* [Add Currencies](tutorials/add-currencies.md)
+* [Gamemode Compatibility](tutorials/gamemode-compatibility.md)
+
 ## Client Functions
 
 * [Accessories](client-functions/accessories.md)
@@ -56,10 +62,4 @@
 * [Item Table](structs/item-table.md)
 * [Item Jobs](structs/item-jobs.md)
 * [Item Options](structs/item-options.md)
-
-## Tutorials
-
-* [Create a new category](tutorials/create-a-new-category.md)
-* [Add Currencies](tutorials/add-currencies.md)
-* [Gamemode Compatibility](tutorials/gamemode-compatibility.md)
 
