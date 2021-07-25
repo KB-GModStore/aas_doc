@@ -4,7 +4,9 @@ description: You can see the item options table base structure
 # Item Jobs
 The table contains all item base options.
 
-<!--  If the item is desactivate all users who bought it can equip it -->
+{% hint style="warning" %}
+If the item is desactivate (options.activate = false) all users who bought it can equip it
+{% endhint %}
 
 ### Table Structure
 | Types | Parameters | Descriptions
