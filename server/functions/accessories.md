@@ -1,5 +1,5 @@
 ---
-description: You can see some purchasing functions
+description: You can see some accessories functions
 ---
 # Accessories Functions
 

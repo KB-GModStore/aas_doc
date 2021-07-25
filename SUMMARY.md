@@ -1,6 +1,7 @@
 # Table of contents
 
 ## Client Functions
+* [Accessories](client/functions/accessories.md)
 * [Draw gradients](client/functions/gradients.md)
 * [Utils](client/functions/utils.md)
 
