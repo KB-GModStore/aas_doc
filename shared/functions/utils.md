@@ -19,3 +19,19 @@ Format the money to string (and add the currency)
 
 ### PLAYER:AASGetMoney()
 Return the player money 
+
+Return :
+| Types | Parameters | Descriptions |
+| :--- | :--- | :--- | :--- |
+| [boolean](https://www.lua.org/pil/2.2.html) | money | The player money |
+
+### PLAYER:AASAddMoney()
+Add or remove to player some money
+
+{% hint style="info" %}
+If you want to remove to player money, you have to set a **negative number**
+{% endhint %}
+
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| [number](https://www.lua.org/pil/2.3.html) | **money** | The money to add or remove | ❌ |
