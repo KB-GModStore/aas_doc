@@ -17,4 +17,5 @@ AAS.Notification(5, "Hello world !")
 ```
 
 Output : 
+
 ![](../../../assets/images/notification.png)
