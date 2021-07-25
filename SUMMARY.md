@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 
 ## Client Functions
+
 * [Accessories](client-functions/accessories.md)
 * [Draw gradients](client-functions/gradients.md)
 * [Utils](client-functions/utils.md)
@@ -60,4 +61,5 @@
 
 * [Add a new langage](tutorials/add-a-new-langage.md)
 * [Create a new category](tutorials/create-a-new-category.md)
+* [Add Currencies](tutorials/add-currencies.md)
 
