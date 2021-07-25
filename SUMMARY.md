@@ -28,7 +28,7 @@
 * [Purchasing](server/functions/purchasing.md)
 * [SQL](server/functions/sql.md)
 * [Synchronisation](server/functions/synchronisation.md)
-* [Uitls](server/functions/utils.md)
+* [Utils](server/functions/utils.md)
 
 ## Server Hooks
 * [Accessories](server/hooks/accessories.md)
