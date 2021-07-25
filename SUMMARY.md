@@ -42,3 +42,4 @@
 
 ## Structs
 * [Item Table](structs/item-table.md)
+* [Item Categories](structs/item-categories.md)
