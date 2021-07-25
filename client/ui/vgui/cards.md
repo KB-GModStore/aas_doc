@@ -23,4 +23,5 @@ card:AddItemView(scroll, accessoriesFrame, iconLayout, AAS.GetTableById(1))
 ```
 
 Output:
+
 ![](../../../assets/images/card.png)
