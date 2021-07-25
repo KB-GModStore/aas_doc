@@ -30,5 +30,3 @@ function PLAYER:AASAddMoney(price)
 end
 ```
 
-
-
