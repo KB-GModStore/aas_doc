@@ -41,7 +41,7 @@ amet, consectetur.
 ```
 
 ### AAS.ConvertVector(pos, offset, ang)
-Convert the vector with the offset
+Convert the [Vector](https://wiki.facepunch.com/gmod/Vector) with the offset
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
@@ -55,7 +55,7 @@ Return :
 | [Vector](https://wiki.facepunch.com/gmod/Vector) | **newVector** | The converted vector |
 
 ### AAS.ConvertAngle(ang, offset)
-Convert the angle with the offset
+Convert the [Angle](https://wiki.facepunch.com/gmod/Angle) with the offset
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
