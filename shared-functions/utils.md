@@ -34,7 +34,7 @@ Return :
 
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- |
-| [boolean](https://www.lua.org/pil/2.2.html) | money | The player money |
+| [number](https://www.lua.org/pil/2.3.html) | money | The player money |
 
 ## PLAYER:AASAddMoney\(\)
 
