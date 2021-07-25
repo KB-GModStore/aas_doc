@@ -13,5 +13,14 @@ Setup the card model, and add some informations on it
 | :--- | :--- | :--- | :--- |
 | [Panel](https://wiki.facepunch.com/gmod/Panel) | **itemScroll** | The card linked scroll | ❌ |
 | [Panel](https://wiki.facepunch.com/gmod/Panel) | **accessoriesFrame** | The card linked frame | ❌ |
-| [Panel](https://wiki.facepunch.com/gmod/Panel) | **itemContainer** | The card linked container (like a [DIconLayout](https://wiki.facepunch.com/gmod/DIconLayout)) | ❌ |
+| [Panel](https://wiki.facepunch.com/gmod/Panel) | **itemContainer** | The card linked container (like a |[[DIconLayout](https://wiki.facepunch.com/gmod/DIconLayout)) | ❌ |
 | [itemTable](/structs/item-table.md) | **tbl** | The card linked item | ❌ |
+
+Example:
+```lua
+local card = vgui.Create("AAS:Cards", accessoriesFrame)
+card:AddItemView(scroll, accessoriesFrame, iconLayout, AAS.GetTableById(1))
+```
+
+Output:
+![](../../../assets/images/card.png)
