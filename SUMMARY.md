@@ -59,7 +59,7 @@
 
 ## Tutorials
 
-* [Add a new langage](tutorials/add-a-new-langage.md)
 * [Create a new category](tutorials/create-a-new-category.md)
 * [Add Currencies](tutorials/add-currencies.md)
+* [Gamemode Compatibility](tutorials/gamemode-compatibility.md)
 
