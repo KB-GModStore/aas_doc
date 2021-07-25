@@ -1,1 +1,8 @@
-# Welcome on the documentation
+---
+description: This is the documentation of Advanced Accessory system.
+---
+
+# Introduction
+
+​
+
