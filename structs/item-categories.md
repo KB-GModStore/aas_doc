@@ -2,7 +2,10 @@
 description: You can see all items basics categories
 ---
 # Item Categories
+
+{% hint style="info" %}
 If you want to add some categories, you have to edit the AAS.Category['mainMenu'] table (the category correspond to the uniqueName value)
+{% endhint %}
 
 ### Base categories
 | Categories | Linked bones |
