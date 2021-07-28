@@ -22,6 +22,10 @@
 * [Main](client-ui-functions/main.md)
 * [Notifications](client-ui-functions/notifications.md)
 
+## Client Hooks
+* [Accessories](client-hooks/accessories.md)
+* [Inventory](client-hooks/inventory.md)
+
 ## Client VGUI List
 
 * [AAS:Cards](client-vgui-list/cards.md)
@@ -62,4 +66,3 @@
 * [Item Table](structs/item-table.md)
 * [Item Jobs](structs/item-jobs.md)
 * [Item Options](structs/item-options.md)
-
