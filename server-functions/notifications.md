@@ -6,7 +6,7 @@ description: You can see some notifications functions
 
 ## PLAYER:AASNotify\(time, msg\)
 
-Send a notification to the [Player](https://wiki.facepunch.com/gmod/Player) called [AAS.Notification](..client-ui-functions/notifications.md) internally
+Send a notification to the [Player](https://wiki.facepunch.com/gmod/Player) called [AAS.Notification](../client-ui-functions/notifications.md) internally
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
