@@ -36,3 +36,10 @@ Unequip all player accessories
 
 Send all accessories of all players to a specific player
 
+## PLAYER:AASSaveModelItem()
+
+Save the player last model and all equiped items
+
+## PLAYER:AASReloadModelItem()
+
+Reload the player last model and all last equiped items
