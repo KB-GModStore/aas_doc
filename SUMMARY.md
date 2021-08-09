@@ -40,6 +40,7 @@
 
 * [Accessories](server-functions/accessories.md)
 * [Bodygroups](server-functions/bodygroups.md)
+* [Entities Saving](server-functions/entities-saving.md)
 * [Item Configuration](server-functions/items-configuration.md)
 * [Notifications](server-functions/notifications.md)
 * [Purchasing](server-functions/purchasing.md)
