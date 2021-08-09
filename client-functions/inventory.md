@@ -40,4 +40,4 @@ Return :
 
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- |
-| [number](https://www.lua.org/pil/2.3.html) | **isBought** | If the item is bought |
+| [boolean](https://www.lua.org/pil/2.2.html) | **isBought** | If the item is bought |
