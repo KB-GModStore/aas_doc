@@ -28,6 +28,9 @@
 * [Accessories](client-hooks/accessories.md)
 * [Inventory](client-hooks/inventory.md)
 
+## Client Variables
+* [UI](client-variables/ui.md)
+
 ## Client VGUI List
 
 * [AAS:Cards](client-vgui-list/cards.md)
