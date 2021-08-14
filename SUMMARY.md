@@ -67,6 +67,9 @@
 * [Inventory](shared-functions/inventory.md)
 * [Utils](shared-functions/utils.md)
 
+## Console Commands
+* [Entities Saving](console-commands/entities.md)
+
 ## Structs
 
 * [Item Categories](structs/item-categories.md)
