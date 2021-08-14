@@ -4,7 +4,7 @@ description: The list of console commands for entities saving
 
 # Entities Saving
 
-{% hint style="info" %}
+{% hint style="warning" %}
 All console commands needs to be called by a superadmin player or by the server console !
 {% endhint %}
 
