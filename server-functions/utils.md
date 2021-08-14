@@ -47,3 +47,15 @@ Return if the player has the good job for interact with the item
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to unequip | ❌ |
+
+## PLAYER:AASAddMoney\(\)
+
+Add or remove to player some money
+
+{% hint style="info" %}
+If you want to remove to player money, you have to set a **negative number**
+{% endhint %}
+
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| [number](https://www.lua.org/pil/2.3.html) | **money** | The money to add or remove | ❌ |
