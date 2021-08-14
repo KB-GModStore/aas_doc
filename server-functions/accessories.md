@@ -4,7 +4,7 @@ description: You can see some accessories functions
 
 # Accessories
 
-## PLAYER:AASEquipAccessories\(uniqueId\)
+## PLAYER:AASEquipAccessory\(uniqueId\)
 
 Equip the accesorry
 
