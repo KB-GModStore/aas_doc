@@ -69,6 +69,7 @@
 
 ## Console Commands
 * [Entities Saving](console-commands/entities.md)
+* [Items](console-commands/items.md)
 
 ## Structs
 
