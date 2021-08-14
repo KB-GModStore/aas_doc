@@ -4,7 +4,7 @@ description: You can see some functions used for the items configuration
 
 # Item Configuration
 
-## AAS.AddItem\(itemTable, ply\)
+## AAS.AddItem\(itemTable, ply, noSendInformation\)
 
 Add an accessory
 
@@ -12,6 +12,7 @@ Add an accessory
 | :--- | :--- | :--- | :--- |
 | [itemTable](../structs/item-table.md) | **itemTable** | The itemTable to add | ❌ |
 | [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who adds the item | ✔️ |
+| [boolean](https://www.lua.org/pil/2.2.html) | **noSendInformation** | If you didn't want to send the item informations to the player | ✔️ |
 
 ## AAS.UpdateItem\(itemTable, ply\)
 
