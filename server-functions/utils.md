@@ -4,6 +4,20 @@ description: You can see some utils functions
 
 # Utils
 
+## PLAYER:AASModelEquiped(model)
+
+Return if the player has the model equiped
+
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| [string](https://www.lua.org/pil/2.4.html) | **model** | The model | ❌ |
+
+Return :
+
+| Types | Parameters | Descriptions |
+| :--- | :--- | :--- |
+| [boolean](https://www.lua.org/pil/2.2.html) | isEquiped | If the player has the model equiped |
+
 ## AAS.ItemExists(model, skin)
 
 Return if the item exists by it model and skin
