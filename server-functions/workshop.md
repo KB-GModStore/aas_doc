@@ -10,7 +10,7 @@ Return if the workshop item id is loaded
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
-| [workshopId](../tutorials/how-to-get-workshop-item-id.md) | **workshopId** | The workshop item id to check  | ❌ |
+| [number](https://www.lua.org/pil/2.3.html)| **workshopId** | The workshop item id to check  | ❌ |
 
 Return :
 
