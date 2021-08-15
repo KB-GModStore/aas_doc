@@ -28,7 +28,7 @@ Give an item to the player
 | :--- | :--- | :--- | :--- |
 | [string](https://www.lua.org/pil/2.4.html) | **steamId64** | The player steamid64 who you want to create the accessory | ❌ |
 | [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to give | ❌ |
-| [number](https://www.lua.org/pil/2.3.html) | **price** |  The item price (used for the sell) | ✔️ |
+| [number](https://www.lua.org/pil/2.3.html) | **price** |  The item price (used for the sell) | ✔️ (default: 0) |
 
 ## PLAYER:AASSellItem\(uniqueId\)
 
