@@ -6,7 +6,7 @@ description: You can see some purchasing functions
 
 ## PLAYER:AASBuyItem\(uniqueId\)
 
-Buy accessory
+Buy an accessory
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ Buy accessory
 
 ## PLAYER:AASSellItem\(uniqueId\)
 
-Sell accessory
+Sell an accessory
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |

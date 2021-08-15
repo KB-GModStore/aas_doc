@@ -13,7 +13,7 @@ If you want to add some categories, you have to edit the AAS.Category\['mainMenu
 | Categories | Linked bones |
 | :--- | :--- |
 | **Hat** | ValveBiped.Bip01\_Head1 |
-| **Glasses** | ValveBiped.Bip01\_Neck1 |
+| **Glasses** | ValveBiped.Bip01\_Head1 |
 | **Face Mask** | ValveBiped.Bip01\_Head1 |
 | **Mouse Mask** | ValveBiped.Bip01\_Head1 |
 | **BackPack** | ValveBiped.Bip01\_Spine |
