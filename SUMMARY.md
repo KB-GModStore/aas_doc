@@ -7,6 +7,7 @@
 * [Create a new category](tutorials/create-a-new-category.md)
 * [Add Currencies](tutorials/add-currencies.md)
 * [Gamemode Compatibility](tutorials/gamemode-compatibility.md)
+* [Add a language](tutorials/add-a-language.md)
 
 ## Client Functions
 
