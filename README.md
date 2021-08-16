@@ -4,8 +4,6 @@ description: This is the documentation of Advanced Accessory system.
 
 # Introduction
 
-![](.gitbook/assets/big-900_415.png)
-
 ## 1.0.0 - 2021-07-26
 
 ### Fixed
