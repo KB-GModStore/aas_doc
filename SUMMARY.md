@@ -21,14 +21,16 @@
 * [Bodygroups](client-ui-functions/bodygroups.md)
 * [Items](client-ui-functions/items.md)
 * [Main](client-ui-functions/main.md)
-* [Models](client-ui-functions/models.md)s
+* [Models](client-ui-functions/models.md)
 * [Notifications](client-ui-functions/notifications.md)
 
 ## Client Hooks
+
 * [Accessories](client-hooks/accessories.md)
 * [Inventory](client-hooks/inventory.md)
 
 ## Client Variables
+
 * [UI](client-variables/ui.md)
 
 ## Client VGUI List
@@ -68,6 +70,7 @@
 * [Utils](shared-functions/utils.md)
 
 ## Console Commands
+
 * [Entities Saving](console-commands/entities.md)
 * [Items](console-commands/items.md)
 
@@ -77,3 +80,4 @@
 * [Item Table](structs/item-table.md)
 * [Item Jobs](structs/item-jobs.md)
 * [Item Options](structs/item-options.md)
+

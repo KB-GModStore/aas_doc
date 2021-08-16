@@ -4,7 +4,7 @@ description: You can see some inventory functions
 
 # Inventory
 
-## AAS.GetInventoryByCategory(category)
+## AAS.GetInventoryByCategory\(category\)
 
 Return a table with all bought items in the category
 
@@ -18,7 +18,7 @@ Return :
 | :--- | :--- | :--- |
 | [table](https://www.lua.org/pil/2.5.html) | **categoryItems** | Contain all bought items in the category |
 
-## AAS.CountInventory()
+## AAS.CountInventory\(\)
 
 Get the number of bought items
 
@@ -28,7 +28,7 @@ Return :
 | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | **count** | The number of bought items |
 
-## AAS.ItemIsBought(uniqueId)
+## AAS.ItemIsBought\(uniqueId\)
 
 Return if the [LocalPlayer](https://wiki.facepunch.com/gmod/Global.LocalPlayer) has bought the item
 
@@ -41,3 +41,4 @@ Return :
 | Types | Parameters | Descriptions |
 | :--- | :--- | :--- |
 | [boolean](https://www.lua.org/pil/2.2.html) | **isBought** | If the item is bought |
+

@@ -60,5 +60,3 @@ For add a new category you have to go into the file sh\__advanced\_config.lua_
 },
 ```
 
-
-

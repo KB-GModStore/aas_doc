@@ -4,7 +4,7 @@ description: You can see some utils functions
 
 # Utils
 
-## PLAYER:AASModelEquiped(model)
+## PLAYER:AASModelEquiped\(model\)
 
 Return if the player has the model equiped
 
@@ -18,7 +18,7 @@ Return :
 | :--- | :--- | :--- |
 | [boolean](https://www.lua.org/pil/2.2.html) | isEquiped | If the player has the model equiped |
 
-## AAS.ItemExists(model, skin)
+## AAS.ItemExists\(model, skin\)
 
 Return if the item exists by it model and skin
 
@@ -34,6 +34,7 @@ Return :
 | [boolean](https://www.lua.org/pil/2.2.html) | exists | If the item exists |
 
 ## PLAYER:AASCheckDistEnt\(class, radius\)
+
 Return if a certain entity class is near the player
 
 | Types | Arguments | Descriptions | Optional |
@@ -41,7 +42,8 @@ Return if a certain entity class is near the player
 | [string](https://www.lua.org/pil/2.4.html) | **class** | The entity class | ❌ |
 | [number](https://www.lua.org/pil/2.3.html) | **radius** | The max distance between the player and the entity | ❌ |
 
-## PLAYER:AASCheckJob(uniqueId)
+## PLAYER:AASCheckJob\(uniqueId\)
+
 Return if the player has the good job for interact with the item
 
 | Types | Arguments | Descriptions | Optional |
@@ -59,3 +61,4 @@ If you want to remove to player money, you have to set a **negative number**
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | **money** | The money to add or remove | ❌ |
+

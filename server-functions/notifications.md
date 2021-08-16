@@ -12,3 +12,4 @@ Send a notification to the [Player](https://wiki.facepunch.com/gmod/Player) call
 | :--- | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | time | Notification display time | ❌ |
 | [string](https://www.lua.org/pil/2.4.html) | msg | The notification message content | ❌ |
+
