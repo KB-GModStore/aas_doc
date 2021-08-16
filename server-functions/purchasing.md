@@ -20,7 +20,7 @@ Return if the player have bought an item
 | :--- | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to check | ❌ |
 
-## AAS.GiveItem(steamId64, uniqueId, price)
+## AAS.GiveItem\(steamId64, uniqueId, price\)
 
 Give an item to the player
 
@@ -28,7 +28,7 @@ Give an item to the player
 | :--- | :--- | :--- | :--- |
 | [string](https://www.lua.org/pil/2.4.html) | **steamId64** | The player steamid64 who you want to create the accessory | ❌ |
 | [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to give | ❌ |
-| [number](https://www.lua.org/pil/2.3.html) | **price** |  The item price (used for the sell) | ✔️ (default: 0) |
+| [number](https://www.lua.org/pil/2.3.html) | **price** | The item price \(used for the sell\) | ✔️ \(default: 0\) |
 
 ## PLAYER:AASSellItem\(uniqueId\)
 
@@ -37,7 +37,6 @@ Sell an accessory
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to sell | ❌ |
-
 
 Return :
 

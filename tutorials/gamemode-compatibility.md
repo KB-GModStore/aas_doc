@@ -7,7 +7,7 @@ description: How to add a compatibility with your gamemode.
 ​
 
 {% hint style="info" %}
-You can modify there functions into the folder advanced\__accessories/shared/sh\_functions_
+You can modify this function into the folder advanced\__accessories/shared/sh\_functions_
 {% endhint %}
 
 ```lua
@@ -20,13 +20,29 @@ function PLAYER:AASGetMoney()
 
     return 0
 end
+```
 
+{% hint style="info" %}
+You can modify this function into the advanced\_accessories/server/sv\_functions.lua
+{% endhint %}
+
+```lua
 function PLAYER:AASAddMoney(price)
     if DarkRP then
-        return self:addMoney(price)
-    elseif MyGamemode then -- This is the table of your gamemode 
-        return self:setMyGamemodeMoney(price) -- This is the function for get the money
+        self:addMoney(price)
+    elseif ix then
+        if self:GetCharacter() != nil then
+            local money = self:AASGetMoney()
+            self:GetCharacter():SetMoney(money + price)
+        end
+    elseif nut then
+        if self:getChar() != nil then
+            local money = self:AASGetMoney()
+            self:getChar():setMoney(money + price)
+        end
     end
 end
 ```
+
+
 

@@ -21,3 +21,4 @@ If the item is desactivate \(options.activate = false\) all users who bought it 
 | [string](https://www.lua.org/pil/2.4.html) | bone | The bone that the the item follow |
 | [number](https://www.lua.org/pil/2.3.html) | iconFov | The FOV of the [DModelPanel](https://wiki.facepunch.com/gmod/DModelPanel) in the [AAS:Cards](../client-vgui-list/cards.md) |
 | [Vector](https://wiki.facepunch.com/gmod/Vector) | iconPos | The [DModelPanel:SetLookAt](https://wiki.facepunch.com/gmod/DModelPanel:SetLookAt) position |
+

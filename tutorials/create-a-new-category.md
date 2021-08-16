@@ -51,9 +51,11 @@ For add a new category you have to go into the file sh\__advanced\_config.lua_
         ["margin"] = 0.01,
         ["bone"] = "ValveBiped.Bip01_Spine",
     },
+    -- https://wiki.facepunch.com/gmod/ValveBiped_Bones
+    
     -- [7] = {
-    --  ["uniqueName"] = "BackPack",
-    --  ["material"] = Material("aas_materials/ass_icon_bag.png", "smooth"),
+    --  ["uniqueName"] = "Test Name",
+    --  ["material"] = Material("aas_materials/ass_icon_test.png", "smooth"),
     --  ["margin"] = 0.01,
     --  ["bone"] = "ValveBiped.Bip01_Spine",
     },
