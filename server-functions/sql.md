@@ -12,3 +12,17 @@ Send a SQL Query
 | :--- | :--- | :--- | :--- |
 | [string](https://www.lua.org/pil/2.4.html) | **query** | The sql query to send | ❌ |
 
+## AAS.Escape\(str\)
+
+Escape the string
+
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| [string](https://www.lua.org/pil/2.4.html) | **str** | The string to escape | ❌ |
+
+Return :
+
+| Types | Parameters | Descriptions |
+| :--- | :--- | :--- |
+| [string](https://www.lua.org/pil/2.4.html) | **escapedString** | The escaped string |
+
