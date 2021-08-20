@@ -18,7 +18,7 @@ Return :
 | :--- | :--- | :--- |
 | [boolean](https://www.lua.org/pil/2.2.html) | isEquiped | If the player has the model equiped |
 
-## AAS.ItemExists\(model, skin\)
+## ASS.ItemExist\(model, skin\)
 
 Return if the item exists by it model and skin
 
