@@ -33,6 +33,22 @@ Return :
 | :--- | :--- | :--- |
 | [boolean](https://www.lua.org/pil/2.2.html) | exists | If the item exists |
 
+
+## AAS.GetTableById\(uniqueId\)
+
+Return if the item exists by the item uniqueId
+
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to check if exists | ❌ |
+
+Return :
+
+| Types | Parameters | Descriptions |
+| :--- | :--- | :--- |
+| [boolean](https://www.lua.org/pil/2.2.html) | exists | If the item exists |
+
+
 ## PLAYER:AASCheckDistEnt\(class, radius\)
 
 Return if a certain entity class is near the player
