@@ -4,9 +4,14 @@ description: You can see some utils functions
 
 # Utils
 
-## AAS.LoadFonts\(\)
+## AAS.LoadFonts\(itemNameScale\)
 
 Load addon fonts
+
+| Types | Arguments | Descriptions | Optional |
+| :--- | :--- | :--- | :--- |
+| [string](https://www.lua.org/pil/2.4.html) | **itemNameScale** | The item name scale (you have to responsive it with **AAS.ScrH**) | ✔️ |
+
 
 ## AAS.BreakText\(text, max\)
 
