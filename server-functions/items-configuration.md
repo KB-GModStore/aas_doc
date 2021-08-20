@@ -12,7 +12,9 @@ Add an accessory
 | :--- | :--- | :--- | :--- |
 | [itemTable](../structs/item-table.md) | **itemTable** | The itemTable to add | ❌ |
 | [Player](https://wiki.facepunch.com/gmod/Player) | **ply** | The player who adds the item | ✔️ |
-| [boolean](https://www.lua.org/pil/2.2.html) | **noSendInformation** | If you didn't want to send the item informations to the player | ✔️ |
+| [boolean](https://www.lua.org/pil/2.2.html) | **noSendInformation** | If you don't want to send the item informations to the player | ✔️ |
+| [boolean](https://www.lua.org/pil/2.2.html) | **checkIfExist** | If you don't want to recreate the item if it exists (internally call **AAS.ItemExist** for check if the item exists) | ✔️ |
+| [boolean](https://www.lua.org/pil/2.2.html) | **baseItem** | If the item is by default | ✔️ |
 
 ## AAS.UpdateItem\(itemTable, ply\)
 
