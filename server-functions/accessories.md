@@ -4,13 +4,14 @@ description: You can see some accessories functions
 
 # Accessories
 
-## PLAYER:AASEquipAccessory\(uniqueId\)
+## PLAYER:AASEquipAccessory\(uniqueId, noNotify\)
 
 Equip the accesorry
 
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to equip | ❌ |
+| [number](https://www.lua.org/pil/2.3.html) | **noNotify** | If you don't want to notify the player | ✔️ |
 
 ## PLAYER:AASUnEquipAccessoryById\(uniqueId\)
 
