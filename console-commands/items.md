@@ -23,3 +23,6 @@ Give an item to a player by the steamid4
 | [string](https://www.lua.org/pil/2.4.html) | **steamid64** | The player steamid64 who you want to give the item | ❌ |
 | [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to give | ❌ |
 
+## aas\_save\_item\_data
+
+Save the item list in a data file (Called [AAS.ConvertSqlToDataTable](../server-functions/utils.md) internally)
