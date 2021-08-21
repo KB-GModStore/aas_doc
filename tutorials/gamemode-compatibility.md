@@ -7,7 +7,7 @@ description: How to add a compatibility with your gamemode.
 ​
 
 {% hint style="info" %}
-You can modify this function into the folder advanced\__accessories/shared/sh\_functions_
+You can modify this function into the file **advanced\__accessories/shared/sh\_functions.lua_**
 {% endhint %}
 
 ```lua
@@ -23,7 +23,7 @@ end
 ```
 
 {% hint style="info" %}
-You can modify this function into the advanced\_accessories/server/sv\_functions.lua
+You can modify this function into the **advanced\_accessories/server/sv\_functions.lua**
 {% endhint %}
 
 ```lua

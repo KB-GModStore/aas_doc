@@ -5,11 +5,11 @@ description: How to add a new category on the items menu
 # Create a new category
 
 {% hint style="danger" %}
-If you change the material of the category you have to add it into the materials/aas\_materials
+If you change the material of the category you have to add it into **the materials/aas\_materials/** folder
 {% endhint %}
 
 {% hint style="info" %}
-For add a new category you have to go into the file sh\__advanced\_config.lua_
+For add a new category you have to go into the file **sh\__advanced\_config.lua_**
 {% endhint %}
 
 ```lua

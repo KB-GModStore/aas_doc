@@ -8,7 +8,7 @@ description: How to add a language
 Firstly you need to take the english file on gmodstore
 {% endhint %}
 
-![Secondly you need to create a file into advanced\_accessories/languages](../.gitbook/assets/unknown.png)
+![Secondly you need to create a file into **advanced\_accessories/languages/** folder](../.gitbook/assets/unknown.png)
 
 ```lua
 -- Thirdly you need to copy/past the entire english file into your language file
