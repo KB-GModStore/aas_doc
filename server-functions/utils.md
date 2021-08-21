@@ -78,3 +78,7 @@ If you want to remove to player money, you have to set a **negative number**
 | :--- | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | **money** | The money to add or remove | ❌ |
 
+## AAS.ChangeLangage()
+
+Change basics items descriptions and names compared to the selected language
+
