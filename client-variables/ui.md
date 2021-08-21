@@ -16,7 +16,3 @@ Return the height of the client screen \(just cached the [ScrH](https://wiki.fac
 
 Return the LocalPlayer\(\)
 
-### 
-
-### 
-
