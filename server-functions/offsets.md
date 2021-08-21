@@ -23,6 +23,10 @@ Save player personal item offsets
 
 Get player item offset
 
+{% hint style="warning" %}
+If the player haven't personnal item offset, the function return **nil**
+{% endhint %}
+
 | Types | Arguments | Descriptions | Optional |
 | :--- | :--- | :--- | :--- |
 | [number](https://www.lua.org/pil/2.3.html) | **uniqueId** | The item uniqueId to get offsets | ❌ |
