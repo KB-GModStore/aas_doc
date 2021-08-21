@@ -83,4 +83,5 @@
 * [Item Table](structs/item-table.md)
 * [Item Jobs](structs/item-jobs.md)
 * [Item Options](structs/item-options.md)
+* [Offset table](structs/offset-table.md)
 
