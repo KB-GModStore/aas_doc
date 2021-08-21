@@ -82,3 +82,11 @@ If you want to remove to player money, you have to set a **negative number**
 
 Change basics items descriptions and names compared to the selected language
 
+## AAS.ConvertSqlToDataTable()
+
+Convert the items list from the sql database to a lua table
+
+{% hint style="info" %}
+The converted lua table is located in **data/aas_item_table.txt**
+{% endhint %}
+
