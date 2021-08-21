@@ -52,6 +52,7 @@
 * [Entities Saving](server-functions/entities-saving.md)
 * [Item Configuration](server-functions/items-configuration.md)
 * [Notifications](server-functions/notifications.md)
+* [Offsets](server-functions/offsets.md)
 * [Player Saving](server-functions/player-saving.md)
 * [Purchasing](server-functions/purchasing.md)
 * [SQL](server-functions/sql.md)
