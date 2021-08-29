@@ -14,6 +14,7 @@
 * [Accessories](client-functions/accessories.md)
 * [Draw gradients](client-functions/gradients.md)
 * [Inventory](client-functions/inventory.md)
+* [Items](client-functions/items.md)
 * [Utils](client-functions/utils.md)
 
 ## Client UI Functions

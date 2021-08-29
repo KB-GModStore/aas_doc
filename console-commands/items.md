@@ -20,7 +20,7 @@ Just this console command need to be called clientside !
 
 ## aas_sh_item_to_aas
 
-Transfer all sh accessories items to aas items
+Transfer all sh accessories items to aas items (Called [AAS.SHToAAS](../client-functions/items.md) internally)
 
 ## aas\_give\_items\_steamid64\(steamid64, uniqueId\)
 
