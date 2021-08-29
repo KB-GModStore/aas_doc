@@ -6,4 +6,4 @@ description: You can see some items functions
 
 ## AAS.SHToAAS()
 
-Transfer all sh accessories items to aas items
+Transfer all [sh accessories](https://www.gmodstore.com/market/view/sh-accessories-darkrp) items to aas items

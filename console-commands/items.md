@@ -20,7 +20,7 @@ Just this console command need to be called clientside !
 
 ## aas_sh_item_to_aas
 
-Transfer all sh accessories items to aas items (Called [AAS.SHToAAS](../client-functions/items.md) internally)
+Transfer all [sh accessories](https://www.gmodstore.com/market/view/sh-accessories-darkrp) items to aas items (Called [AAS.SHToAAS](../client-functions/items.md) internally)
 
 ## aas\_give\_items\_steamid64\(steamid64, uniqueId\)
 
@@ -37,4 +37,4 @@ Save the item list in a data file (Called [AAS.ConvertSqlToDataTable](../server-
 
 ## aas_sh_inventory_to_aas
 
-Transfer all sh accessories inventories to aas inventories (Called [AAS.SHInventoryToAAS](../server-functions/player-saving.md))
+Transfer all [sh accessories](https://www.gmodstore.com/market/view/sh-accessories-darkrp) inventories to aas inventories (Called [AAS.SHInventoryToAAS](../server-functions/player-saving.md))

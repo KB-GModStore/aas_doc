@@ -14,4 +14,4 @@ Set model and accessories saved to the player
 
 ## AAS.SHInventoryToAAS()
 
-Transfer all sh accessories inventories to aas inventories
+Transfer all [sh accessories](https://www.gmodstore.com/market/view/sh-accessories-darkrp) inventories to aas inventories
