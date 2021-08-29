@@ -14,6 +14,14 @@ Remove all entities \(Called [AAS.RemoveEntity](../server-functions/entities-sav
 
 Reload all basic items \(preconfigured items by workshop id\)
 
+{% hint style="warning" %}
+Just this console command need to be called clientside !
+{% endhint %}
+
+## aas_sh_item_to_aas
+
+Transfer all sh accessories items to aas items
+
 ## aas\_give\_items\_steamid64\(steamid64, uniqueId\)
 
 Give an item to a player by the steamid4
