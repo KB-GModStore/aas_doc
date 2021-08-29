@@ -26,3 +26,7 @@ Give an item to a player by the steamid4
 ## aas\_save\_item\_data
 
 Save the item list in a data file (Called [AAS.ConvertSqlToDataTable](../server-functions/utils.md) internally)
+
+## aas_sh_inventory_to_aas
+
+Transfer all sh accessories inventories to aas inventories
