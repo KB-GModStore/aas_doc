@@ -37,4 +37,4 @@ Save the item list in a data file (Called [AAS.ConvertSqlToDataTable](../server-
 
 ## aas_sh_inventory_to_aas
 
-Transfer all sh accessories inventories to aas inventories
+Transfer all sh accessories inventories to aas inventories (Called [AAS.SHInventoryToAAS](../server-functions/player-saving.md))

@@ -12,3 +12,6 @@ Save the current model and equiped item by the player
 
 Set model and accessories saved to the player
 
+## AAS.SHInventoryToAAS()
+
+Transfer all sh accessories inventories to aas inventories
